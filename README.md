@@ -79,7 +79,7 @@ Aprender o básico sobre contribuição no GitHub.
 4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
 5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
+    > Exemplo: `alanleandro23.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
@@ -95,7 +95,7 @@ Aprender o básico sobre contribuição no GitHub.
 4. Create a new **branch** and name it as `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
     > Example: `git checkout -b feat/community/elidianaandrade`
 5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
-    > Example: `elidianaandrade.md` <br>
+    > Example: `alanleandro23.md` <br>
 6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
     > **Note:** Use the other examples as inspiration, not copy.
 7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
